@@ -1,7 +1,7 @@
 <body style="background-color:blue;">
 <h1>Previous Random Things</h1>
 <br>
-<h3><a href='https://mrpi314.com/Random'><button>Random</button></a></h3>
+<h3><a href='https://mrpi314sch.github.io/Random'><button>Random</button></a></h3>
 <br>
 <h2>10/11/22</h2>
 There are cars that run on used french fry oil
